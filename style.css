@@ -1,0 +1,33 @@
+body {
+  background: url(https://p0.pikist.com/photos/934/795/dots-circles-glow-bubbles-glowing-lights-sparkle-illuminated-blurred-lights.jpg);
+}
+
+.cards {
+  border: 1px solid;
+  width: 250px;
+  height: 350px;
+  margin: 10px;
+  text-align: center;
+  background: url(https://i.pinimg.com/736x/21/e8/cc/21e8cc4cc1a26723e37e4d5e4809a4b6.jpg);
+  border-radius: 14px;
+}
+
+.cards_img {
+  width: 150px;
+  margin-top: 10%;
+  border-radius: 3px;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+span {
+  margin: 10px;
+}
